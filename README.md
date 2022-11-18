@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakif Abdullah</h1>
 <h3 align="center">A passionate SQA engineer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakifabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="sakifabdullah" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif">
+<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakifabdullah" alt="sakifabdullah" /></a> </p>
 
 - 🌱 I’m currently learning **Automation testing**
