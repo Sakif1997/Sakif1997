@@ -29,3 +29,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakifabdullah&show_icons=true&locale=en&layout=compact" alt="sakifabdullah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakifabdullah&" alt="sakifabdullah" /></p>
+
+##Oh, no...Snake eating my contribution
+![snake gif](https://github.com/Sakif1997/Sakif1997/blob/output/github-contribution-grid-snake.gif)
