@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: Sakif Abdullah
             # Text on contribution graph 
-            text: JASINERI
-       - uses: jasineri/simple-push-action@v1
+            text: Sakif1997
+       - uses: Sakif1997/simple-push-action@v1
