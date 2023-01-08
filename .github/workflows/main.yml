@@ -9,7 +9,7 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: Sakif1997/gitartwork@v1
+       - uses: Sakif1997/main@v1
          with:
             # Use this username's contribution graph  
             user_name: Sakif Abdullah
