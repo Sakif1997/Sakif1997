@@ -6,17 +6,16 @@
 
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="sakifabdullah" align="right" /> 
 
-- 🌱 I’m currently learning **Automation testing**
+- 🌱 Passionate Tester with expertise in both manual and automation testing.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sakif1997](https://github.com/Sakif1997)
+- 👨‍💻 Explore my projects at https://github.com/Sakif1997 for innovative solutions and code craftsmanship.
 
-- 💬 Ask me about **Load testing, API testing, Performance testing, JavaScript and java basic**
+- 💬 Let's talk about API testing, performance testing, and automation testing (Selenium) and unravel the mysteries of Java and Java basics.
 
-- 📫 How to reach me **sakifrockz@gmail.com**
+- 📫 Reach out at sakifrockz@gmail.com for collaboration and discussions.
 
-- 📄 Know about my experiences [multiple programming language projects](multiple programming language projects)
-
-- ⚡ Fun fact **I am serious but not look like**
+- 📄 Dive into my diverse experiences through [multiple programming language projects](multiple programming language projects).
+- ⚡ Fun fact: **I am serious but not look like**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
