@@ -1,4 +1,8 @@
-
+<style>
+body {
+  background-image: url('img_girl.jpg');
+}
+</style>
 <p align="center"><img src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" alt="Paris"></p>
 <h1 align="center">Hi 👋, I'm Sakif Abdullah</h1>
 <h3 align="center">A passionate SQA engineer from Bangladesh</h3>
