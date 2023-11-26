@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakif Abdullah</h1>
-<h3 align="center">A passionate SQA engineer from Bangladesh</h3>
 <p align="center"><img src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" alt="Paris"></p>
-
+<h3 align="center">A passionate SQA engineer from Bangladesh</h3>
 
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="sakifabdullah" align="right" /> 
 
