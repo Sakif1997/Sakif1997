@@ -3,7 +3,7 @@
 <h3 align="center">A passionate SQA engineer from Bangladesh</h3>
 
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="sakifabdullah" align="right" /> 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimkhaled&label=Profile%20views&color=0e75b6&style=flat" alt="shamimkhaled" /> </p>
 - 🌱 Passionate Tester with expertise in both manual and automation testing.
 
 - 👨‍💻 Explore my projects at https://github.com/Sakif1997 for innovative solutions and code craftsmanship.
